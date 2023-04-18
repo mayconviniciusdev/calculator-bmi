@@ -1,7 +1,7 @@
 # Body Mass Index Calculator
 
 - This Project adapted from the ReactJS course by B7WEB and customized to improve React development skills.
-- Repository of the base project: [react-calc-imc](https://github.com/suporteb7web/react-calc-imc)
+- Repository of the base project: [react-calc-imc](https://github.com/suporteb7web/react-calc-imc).
 - In addition to the base project, information about BMI and a classification table according to WHO have been added.
 
 
@@ -13,3 +13,7 @@
         <img  alt="typescript" src="https://img.shields.io/badge/typescript-0e7178?style=for-the-badge&logo=typescript&logoColor=black"/>
     </div>
 
+## Here are some images that showcase the finished project.
+<img src='src/assets/projetoFinal1.png'>
+<img src='src/assets/projetoFinal2.png'>
+<img src='src/assets/projetoFinal3.png'>
